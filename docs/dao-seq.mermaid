@@ -1,0 +1,8 @@
+sequenceDiagram
+    participant Main
+
+    activate Main
+    create participant DaoImpl1
+    Main->>DaoImpl1: <<create>>
+    Main->>DaoImpl1: getData()
+    deactivate Main

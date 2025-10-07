@@ -1,2 +1,7 @@
-# Base2025-DAO-task
-SW Design 2025 - Java DAO exercise starter code
+# Software Design 2025 - DAO task
+
+See Moodle for task description.
+Place the UML diagrams to the docs directory.
+
+Replace the placeholder content with your own deliverables.
+

@@ -1,0 +1,7 @@
+package fi.sade25.daotask;
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello DAO");
+    }
+}
